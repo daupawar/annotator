@@ -18,7 +18,7 @@ start an |App|. At its simplest, that looks like this::
    app.start();
 
 You probably want to keep reading if you want your Annotator installation to be
-useful straight away, as by default an |App| is extremely minimal. You can can
+useful straight away, as by default an |App| is extremely minimal. You can
 easily add functionality from an Annotator :term:`module`, an independent
 components that you can load into your :term:`application`. For example, here
 we create an |App| that uses the default Annotator user interface
